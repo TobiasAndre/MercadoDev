@@ -10,9 +10,9 @@ With the app, you can:
 
 
 ## Screens
-![screen](../master/Screenshot 2018-02-16_14-24-40.png)
+![screen](../master/Home_01.png)
 
-![screen](../master/Screenshot 2018-02-16_14-24-58.png)
+![screen](../master/Home_02.png)
 
 
 ## License
