@@ -4,6 +4,11 @@
 # MERCADO DEV
 This project is part of DevPleno's ReactJS course.
 
+Using:
+ - React
+ - Firebase Database
+ - Firebase Storage (Upload and Download of Images)
+
 
 ## Screens
 ![screen](../master/home_01.png)
